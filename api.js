@@ -1,2 +1,57 @@
-[{"pro_name":"Apple","pro_price":"120","pro_image":["https:\/\/images-na.ssl-images-amazon.com\/images\/I\/918YNa3bAaL._SL1500_.jpg","https:\/\/cdn.shopify.com\/s\/files\/1\/0013\/7556\/7984\/products\/shutterstock_512715859_1.jpg?v=1533172772"],"pro_des":"An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus"},{"pro_name":"Pear","pro_price":"120","pro_image":["https:\/\/5.imimg.com\/data5\/KA\/KH\/MY-22541476\/stark-crimson-pears-500x500.jpg","https:\/\/www.bigbasket.com\/media\/uploads\/p\/l\/40048444_3-fresho-pear-green-imported.jpg"],"pro_des":"The pear tree and shrub are a species of genus Pyrus, in the family Rosaceae, bearing the pomaceous fruit of the same name."},{"pro_name":"orange","pro_price":"120","pro_image":["http:\/\/astrotarot.net\/wp-content\/uploads\/2015\/09\/orange.jpg"],"pro_des":"The orange is the fruit of the citrus species Citrus sinensis in the family Rutaceae, native to China. It is also called sweet orange, to distinguish it from the related Citrus \u00d7 aurantium, referred to as bitter orange."}]
+[
+  {
+    "school_name":"JND School",
+    "school_id":"0000",
+    "school_lat":"21.5305516",
+    "school_log":"70.3675689",
+    "passenger":[
+        {
+          "passenger_name":"passenger1",
+          "passenger_time":"morning",
+          "passenger_id":"p01",
+          "passenger_lat":"21.3581753",
+          "passenger_log":"70.4206895",
+        },
+        {
+          "passenger_name":"passenger2",
+          "passenger_time":"morning",
+          "passenger_id":"p02",
+          "passenger_lat":"21.4771247",
+          "passenger_log":"70.4309181",
+          
+        },
+      ]
+  },
+  {
+    "school_name":"Khadiya school",
+    "school_id":"1111",
+    "school_lat":"21.4236441",
+    "school_log":"70.5039353",
+    "passenger":[
+        {
+          "passenger_name":"passenger1",
+          "passenger_time":"morning",
+          "passenger_id":"p01",
+          "passenger_lat":"21.4220929",
+          "passenger_log":"70.4817635",
+          
+        },
+        {
+          "passenger_name":"passenger2",
+          "passenger_time":"morning",
+          "passenger_id":"p02",
+          "passenger_lat":"21.3690214",
+          "passenger_log":"70.4802702",
+        },
+         {
+          "passenger_name":"passenger3",
+          "passenger_time":"afternoon",
+          "passenger_id":"p03",
+          "passenger_lat":"21.366937",
+          "passenger_log":"70.4522666",
+        }
+      ]
+  },
+ 
+]
 
